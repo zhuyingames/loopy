@@ -1,3 +1,4 @@
+/** Loopy 1.0.0 */
 class Loopy {
   static run(callback) {
     let record = 0;
